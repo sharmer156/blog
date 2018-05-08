@@ -1,3 +1,6 @@
+# blog
+something about blog
+
 Microsoft Windows [版本 10.0.16299.371]
 (c) 2017 Microsoft Corporation。保留所有权利。
 # 下载相应版本的Node.js
